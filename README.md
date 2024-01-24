@@ -10,7 +10,7 @@ The project written in java language using spring boot framework which contains 
 
 App Url for local usage => http://localhost:8080/hacker-news/
 
-Note : Kindly wait for some time after running the /top-stories or /comments api as it filters out a lots of data. Depending upon internet bandwidth it may take 30 seconds or more.
+Note : Kindly wait for some time after running the /top-stories and  /comments api as it filters out a lots of data. Depending upon internet bandwidth it may take 30 seconds or more.
 
 For the second time, /top-stories will display cached data for 15 minutes. Caching is implemented using Redis.
 
