@@ -6,7 +6,7 @@ The project written in java language using spring boot framework which contains 
 
 /past-stories:returns all the past top stories that were served previously
 
-/comments/ — returns the top 10 parent comments on a given story (sorted by the total number of comments (including child comments) per thread). (Sample storyId: 9129199)
+/comments/ — returns the top 10 parent comments on a given story (sorted by the total number of comments (including child comments) per thread).
 
 App Url for local usage => http://localhost:8080/hacker-news/
 
